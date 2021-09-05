@@ -8,7 +8,7 @@ This folder contains the notebooks and final reports for my final capstone proje
 
 1. Notebooks:
 
-    [Data Wrangling and EDA](https://github.com/sangeetajay/Springboard/blob/master/Second_Capstone/Unit_11_05_EDA_for_Second_Capstone_1.ipynb)
+    [Data Wrangling and EDA](https://github.com/sangeetajay/Springboard/tree/master/Final_Capstone/DataWrangling_EDA_Notebooks)
     
     [Pre-Processing and Modeling](https://github.com/sangeetajay/Springboard/tree/master/Final_Capstone/ModelingNotebooks)
 
