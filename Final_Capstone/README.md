@@ -35,3 +35,5 @@ Features data and image data are both fed into an MLP model and a CNN model. The
 ### Conclusion:
 Using the home features and image data into a mixed inputs model resulted in better model performance compared to using either method alone. 
 
+![Image of graph](https://github.com/sangeetajay/Springboard/blob/master/Final_Capstone/Images/conclusion.png)
+
