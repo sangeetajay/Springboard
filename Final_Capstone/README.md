@@ -28,7 +28,10 @@ To use the dataset containing images scraped from Zillow to try to predict the h
 ![Image of model stratgy](https://github.com/sangeetajay/Springboard/blob/master/Final_Capstone/Images/modelstrat.png)
 
 ### Model Architecture: 
+Features data and image data are both fed into an MLP model and a CNN model. The outputs from the two models are concatenated to create the mixed inputs model.
+
 ![Image of model arch](https://github.com/sangeetajay/Springboard/blob/master/Final_Capstone/Images/modelarch.png)
 
-
+### Conclusion:
+Using the home features and image data into a mixed inputs model resulted in better model performance compared to using either method alone. 
 
