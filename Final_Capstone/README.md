@@ -2,6 +2,8 @@
 
 ## Predicting Home Prices from Zillow Images
 
+![Image of Zillow Page](https://github.com/sangeetajay/Springboard/blob/master/Final_Capstone/Images/austinzillowpagesmall.png)
+
 
 This folder contains the notebooks and final reports for my final capstone project. The dataset is from Kaggle and can be found [here](https://www.kaggle.com/ericpierce/austinhousingprices)
 
