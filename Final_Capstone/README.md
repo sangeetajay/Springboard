@@ -8,7 +8,7 @@ This folder contains the notebooks, final report, and slide deck for my final ca
 1. Notebooks:
 
     [Data Wrangling and EDA: ](https://github.com/sangeetajay/Springboard/tree/master/Final_Capstone/DataWrangling_EDA_Notebooks)
-    There are two notebooks, notebook #1 focuses on the csv file that accompanied the images while Notebook #2 contains the image processing.
+    These notebooks show the steps taken to process the images as well as the cleaning and exploratory analysis of the csv file that accompanied the images.
     
     [Pre-Processing and Modeling: ](https://github.com/sangeetajay/Springboard/tree/master/Final_Capstone/ModelingNotebooks)
     These notebooks contain the pre-processing and different models tested. Each notebook has a different type of model.    
