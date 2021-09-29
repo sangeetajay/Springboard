@@ -25,7 +25,7 @@ This folder contains the notebooks, final report, and slide deck for my final ca
 To use the dataset containing images scraped from Zillow to try to predict the home prices. 
 
 ### Modeling Strategy:
-![Image of model stratgy](https://github.com/sangeetajay/Springboard/blob/master/Final_Capstone/Images/modelstrategy.png)
+![Image of model stratgy](https://github.com/sangeetajay/Springboard/blob/master/Final_Capstone/Images/modelstrat.png)
 
 ### Model Architecture: 
 ![Image of model arch](https://github.com/sangeetajay/Springboard/blob/master/Final_Capstone/Images/modelarch.png)
